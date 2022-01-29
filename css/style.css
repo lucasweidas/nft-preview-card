@@ -167,5 +167,8 @@ body a:focus-within {
 
 /* attribution */
 .attribution {
+    text-align: center;
     color: var(--clr-primary-01);
+    line-height: 1.8em;
+    padding-inline: 1rem;
 }
